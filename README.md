@@ -1,6 +1,6 @@
 # gulp-rollup
 
-Loader and Bundler using the [rolleup](https://github.com/rollup/rollup) for the [gulp](https://github.com/gulpjs/gulp).
+Loader and Bundler using the [rollup](https://github.com/rollup/rollup) for the [gulp](https://github.com/gulpjs/gulp).
 
 ## Example
 
