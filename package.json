@@ -1,0 +1,26 @@
+{
+  "name": "gulp-rollup",
+  "version": "0.0.0",
+  "description": "Loader and Bundler using the [rollup](https://github.com/rollup/rollup) for the [gulp](https://github.com/gulpjs/gulp).",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "rollup": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axross <kou@axross.org> (http://axross.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axross/gulp-rollup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axross/gulp-rollup/issues"
+  },
+  "homepage": "https://github.com/axross/gulp-rollup#readme"
+}
