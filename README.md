@@ -1,4 +1,4 @@
-# gulp-rollup
+# gulp-rollup-loader
 
 Loader and Bundler using the [rollup](https://github.com/rollup/rollup) for the [gulp](https://github.com/gulpjs/gulp).
 

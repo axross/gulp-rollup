@@ -1,5 +1,5 @@
 {
-  "name": "gulp-rollup",
+  "name": "gulp-rollup-loader",
   "version": "0.0.0",
   "description": "Loader and Bundler using the [rollup](https://github.com/rollup/rollup) for the [gulp](https://github.com/gulpjs/gulp).",
   "main": "index.js",
